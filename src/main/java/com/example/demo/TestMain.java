@@ -29,6 +29,7 @@ public class TestMain {
         System.out.println(Runtime.getRuntime().totalMemory() - Runtime.getRuntime().freeMemory());
         System.out.println(memoryMXBean.getHeapMemoryUsage());
 
+        System.out.println("哈哈哈");
 
     }
 
